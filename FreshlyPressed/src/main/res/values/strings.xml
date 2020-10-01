@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Freshly Pressed</string>
+    <string name="posts_not_found">Posts not found</string>
+    <string name="posts_error_retry">Unexpected error loading Posts</string>
+    <string name="posts_error">Error:</string>
+    <string name="subscribers_count">Subscribers count:</string>
+    <string name="author">Author:</string>
+    <string name="post_image_description">Post Image</string>
+    <string name="post_subscriber_count_description">Post subscribers count</string>
+    <string name="author_avatar_description">Author avatar image</string>
+    <string name="discover">Discover</string>
+    <string name="post_by">Posted by</string>
+</resources>
